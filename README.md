@@ -8,3 +8,9 @@ npm install
 npm start
 clear cache and start - npm start -c 
 stop command - ctrl+c
+
+## Git Commands
+git status
+git add .
+git commit -m "Your message here"
+git push
